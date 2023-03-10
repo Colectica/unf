@@ -1,2 +1,2 @@
-# unf
-csharp UNF implementation
+# UNF
+Universal Numerical Fingerprint v6 in csharp

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colectica.Unf.Tests", "src\Colectica.Unf.Tests\Colectica.Unf.Tests.csproj", "{BE5D17F4-6276-433A-BFA5-DC633AD6453B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colectica.Unf", "src\Colectica.Unf\Colectica.Unf.csproj", "{60B36364-7890-4EDE-ACBC-C95DAD81B36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE5D17F4-6276-433A-BFA5-DC633AD6453B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5D17F4-6276-433A-BFA5-DC633AD6453B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5D17F4-6276-433A-BFA5-DC633AD6453B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5D17F4-6276-433A-BFA5-DC633AD6453B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B36364-7890-4EDE-ACBC-C95DAD81B36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B36364-7890-4EDE-ACBC-C95DAD81B36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B36364-7890-4EDE-ACBC-C95DAD81B36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B36364-7890-4EDE-ACBC-C95DAD81B36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE605190-2D51-4BA3-B528-047F6F0E63E6}
+	EndGlobalSection
+EndGlobal
